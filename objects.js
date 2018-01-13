@@ -1,4 +1,4 @@
-var playlist = new Object({keys: "0"});
+var playlist = new Object({Prince: "kiss"});
 
 function updatePlaylist(playlist, aristsName, songTitle){
   playlist[aristsName] = songTitle
